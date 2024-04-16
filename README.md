@@ -3,7 +3,8 @@ Este projeto consiste em um aplicativo nativo para Android. Foi desenvolvido uti
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/a380261b-0906-4b01-96a9-9d91774d8d10" width=260/> <imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/d41b502e-5001-4d10-82cd-8db6fcb7e3b5" width=260/>
+<imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/6d9b1078-4047-4dc3-a184-af3178e185a1" width=260/> <imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/23a77f02-916a-47fd-b935-47643e3b5b59" width=260/>
+
 
 ## Tecnologias
 - Activity
