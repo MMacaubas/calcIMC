@@ -3,11 +3,11 @@ Este projeto consiste em um aplicativo nativo para Android. Foi desenvolvido uti
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/e52f45df-ca03-4987-a3a6-d692168fddbf" alt="IMC ONE" width=100/> <imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/9d6f8309-17a0-4bee-abf6-318732686223" alt="IMC TWO" width=100/>
+<imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/e52f45df-ca03-4987-a3a6-d692168fddbf" alt="IMC ONE" width=50/> <imc src="https://github.com/MMacaubas/calcIMC/assets/164377867/9d6f8309-17a0-4bee-abf6-318732686223" alt="IMC TWO" width=50/>
 
-![IMC ONE](https://github.com/MMacaubas/calcIMC/assets/164377867/e52f45df-ca03-4987-a3a6-d692168fddbf)
+![IMC ONE](https://github.com/MMacaubas/calcIMC/assets/164377867/e52f45df-ca03-4987-a3a6-d692168fddbf) ![IMC TWO](https://github.com/MMacaubas/calcIMC/assets/164377867/9d6f8309-17a0-4bee-abf6-318732686223)
 
-![IMC TWO](https://github.com/MMacaubas/calcIMC/assets/164377867/9d6f8309-17a0-4bee-abf6-318732686223)
+
 
 ## Tecnologias
 - Activity
